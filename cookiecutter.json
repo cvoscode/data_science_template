@@ -3,7 +3,6 @@
     "email": "christoph.a.vos@gmail.com",
     "author_github_handle": "cvoscode",
     "project_name": "example-project",
-    "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
     "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
     "dockerfile": ["y", "n"],
     "devcontainer": ["y", "n"],
