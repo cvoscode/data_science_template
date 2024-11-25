@@ -6,7 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "autogluon>=1.1.1",
-    "deepchecks>=0.18.1",
     "dvc>=3.56.0",
     "imbalanced-learn>=0.12.4",
     "ipykernel>=6.29.5",
